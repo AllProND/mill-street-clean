@@ -1,0 +1,35 @@
+{
+  "name": "mill-street-cabinets",
+  "version": "1.0.0",
+  "description": "Mill Street Cabinets - Custom Cabinet Door Replacement Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build step required'",
+    "deploy": "vercel --prod",
+    "preview": "vercel"
+  },
+  "keywords": [
+    "mill-street-cabinets",
+    "cabinet-doors",
+    "kitchen-renovation",
+    "reno",
+    "sparks",
+    "carson-city",
+    "nevada",
+    "cabinet-replacement"
+  ],
+  "author": "Mill Street Cabinets",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/millstreetcabinets/website.git"
+  },
+  "homepage": "https://mill-street-cabinets.vercel.app",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
