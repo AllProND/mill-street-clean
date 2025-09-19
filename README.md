@@ -1,6 +1,6 @@
 # Mill Street Cabinets Website
 
-A modern, responsive website for Mill Street Cabinets - specialists in custom cabinet door replacement serving Reno, Sparks, and Carson City, Nevada.
+A modern, responsive website for Mill Street Cabinets - specialists in custom cabinet door replacement serving the Reno, Las Vegas, and St. George UT metro areas.
 
 ## Features
 
@@ -123,9 +123,9 @@ npm run deploy
 ## Contact Information
 
 **Mill Street Cabinets**
-- Phone: 775-357-9548
+- Phone: 702-659-8900
 - Email: info@millstreetcabinet.com
-- Service Area: Reno, Sparks, Carson City, Nevada
+- Service Area: Reno, Las Vegas, and St. George UT metro areas
 - License: NV LICENSE 0094087
 
 ## License

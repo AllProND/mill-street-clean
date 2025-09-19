@@ -158,10 +158,10 @@ Consider adding:
 ## 📞 Contact Integration
 
 The site includes:
-- **Phone**: 775-357-9548 (clickable tel: links)
+- **Phone**: 702-659-8900 (clickable tel: links)
 - **Email**: info@millstreetcabinet.com (clickable mailto: links)
 - **Google Reviews**: Direct link to Google business listing
-- **Service Area**: Reno, Sparks, Carson City prominently displayed
+- **Service Area**: Reno, Las Vegas, and St. George UT metro areas prominently displayed
 
 ## 🎯 Target Site Comparison
 
